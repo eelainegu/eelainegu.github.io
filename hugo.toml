@@ -1,6 +1,6 @@
 baseURL = "https://eelainegu.github.io"
 languageCode = "en-us"
-title = "e-laine.space"
+title = ""
 theme = "vintage-web-hugo-theme"
 
 # Pagination
@@ -37,10 +37,10 @@ theme = "vintage-web-hugo-theme"
   author = "Your Name"
 
   # Retro Features
-  show_browser_chrome = true
+  show_browser_chrome = false
   show_status_bar = true
   show_sidebar = true
-  show_welcome_message = true
+  show_welcome_message = false
   welcome_message = "Welcome to our vintage web experience!"
 
   # Content Display
